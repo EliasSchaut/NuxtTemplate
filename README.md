@@ -1,2 +1,2 @@
-# WeavingJeans
-Small tool to show, why a jeans is brighter on the inside
+# NuxtTemplate
+My personal template for nuxt projects

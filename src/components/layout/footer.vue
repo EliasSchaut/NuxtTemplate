@@ -45,7 +45,7 @@ export default defineComponent({
         },
         {
           title: t('footer.source'),
-          href: 'https://github.com/EliasSchaut/PersonalPage',
+          href: 'https://github.com/EliasSchaut/NuxtTemplate',
         },
         { title: t('footer.resources'), href: '/resources', intern: true },
         { title: t('footer.imprint'), href: '/imprint', intern: true },
